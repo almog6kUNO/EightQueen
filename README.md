@@ -1,6 +1,6 @@
 # EightQueen
 
-Solving Eight Queen Problem with genetic algorithm with four differnt modes.
+Solving Eight Queen Problem with a genetic algorithm with four differnt modes.
 
 Install numpy
   pip install numpy
